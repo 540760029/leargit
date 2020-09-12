@@ -5,4 +5,9 @@ dfsfdssdfsf
 fgdssdfsd
 广东罗浮山给家里看电视
 dev 佳佳的分支新的
-master 增加
+<<<<<<< HEAD
+featurel 增加
+=======
+
+featurel 的增加
+>>>>>>> featurel
